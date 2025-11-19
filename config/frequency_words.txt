@@ -33,6 +33,8 @@ bytedance
 特斯拉
 马斯克
 
+特朗普
+
 微软
 Microsoft
 
@@ -107,3 +109,6 @@ embodied intelligence
 宇宙
 飞船
 航空
+
+小米
+雷军
